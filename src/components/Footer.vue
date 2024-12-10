@@ -1,3 +1,7 @@
+<script setup>
+import Logo from "@/assets/logo.png"
+</script>
+
 <template>
     <footer class="container px-6 py-8 text-gray-400">
         <div class="flex flex-col items-center justify-between text-sm md:flex-row">
@@ -26,8 +30,3 @@
         </div>
     </footer>
 </template>
-
-<script setup>
-
-import Logo from "@/assets/Logo.png"; 
-</script>
