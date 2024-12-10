@@ -1,3 +1,6 @@
+<script setup>
+import Logo from "@/assets/logo.png";
+</script>
 <template>
     <!-- About Section -->
     <div class="grid bg-[#302E1B] h-[350px] grid-cols-2 gap-4 place-items-center">
@@ -33,7 +36,3 @@
         </div>
     </div>
 </template>
-
-<script setup>
-import Logo from "@/assets/Logo.png";
-</script>
